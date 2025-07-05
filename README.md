@@ -1,2 +1,2 @@
-# EchoMousaBot
+# @Mousa_SmartBot
 بوت توصيات ذكي للخيارات الثنائية
