@@ -1,2 +1,2 @@
 # سكربت بوت تيليجرام الذكي
-print('Echo Mousa AI Bot v1.0 يعمل...')
+print('@Mousa_SmartBot v1.0 يعمل...')
