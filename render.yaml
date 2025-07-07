@@ -1,6 +1,2 @@
 services:
-  - type: worker
-    name: @Mousa_SmartBot
-    runtime: python
-    buildCommand: "pip install -r requirements.txt"
-    startCommand: "python main.py"
+  - type: 
