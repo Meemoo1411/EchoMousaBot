@@ -1,2 +1,2 @@
-مرحباً بك في بوت @Mousa_SmartBot.
+مرحباً بك في بوت 
 للتشغيل: python main.py
